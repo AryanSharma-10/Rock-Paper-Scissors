@@ -1,0 +1,77 @@
+body {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.score-btn-div {
+    text-align: left;
+    position: absolute;
+    left: 6rem;
+    color: white;
+}
+
+.score-btn {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2rem;
+    text-align: left;
+    cursor: pointer;
+    margin: 1rem;
+    position: relative;
+    border-radius: 100%;
+    padding: 1rem;
+    margin: 1rem 0;
+
+}
+
+.scoreboard-text {
+    font-size: 2.5rem;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4rem;
+}
+
+.icon-div {
+    display: inline-block;
+    size: 2rem;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.choices-div {
+    text-align: center;
+    margin: 0 1.5rem;
+}
+
+h5 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 4.5rem;
+}
+
+img {
+    width: 40%;
+}
+
+.btn {
+    border-radius: 100%;
+    width: 20rem;
+    cursor: pointer;
+}
+
+.player-move,
+.computer-move {
+    width: 20%;
+}
+
+.image-text {
+    font-size: 2rem;
+}

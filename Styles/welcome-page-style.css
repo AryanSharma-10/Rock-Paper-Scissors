@@ -1,0 +1,38 @@
+body {
+    font-family: 'Bebas Neue', sans-serif;
+    color: white;
+    background-color: black;
+}
+
+iframe {
+    display: block;
+    margin: 1.5rem auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4rem;
+    margin: 0.5rem auto;
+}
+
+img {
+    width: 15%;
+    display: block;
+    margin: 0 auto;
+}
+
+.buttons-div {
+    margin: 4rem 0;
+    text-align: center;
+}
+
+button {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2rem;
+    background-color: white;
+    border-radius: 100%;
+    padding: 2rem;
+    margin: 1rem 3rem;
+    font-weight: bold;
+    cursor: pointer;
+}
